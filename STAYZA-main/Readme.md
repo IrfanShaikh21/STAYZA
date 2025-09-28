@@ -6,12 +6,6 @@ A full-featured MERN stack hotel booking platform where companies can list their
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Visit Stayza](https://stayza.vercel.app)
-
----
-
 ## 🛠️ Tech Stack
 
 Stayza is powered by the following technologies:
@@ -22,7 +16,6 @@ Stayza is powered by the following technologies:
 | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)      | Web framework for Node.js |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)                  | Frontend library          |
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)            | Backend runtime           |
-| ![Clerk](https://img.shields.io/badge/-Clerk-FC636B?logo=clerk&logoColor=white&style=for-the-badge)                  | Authentication system     |
 | ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge)               | Payment gateway           |
 | ![React Toastify](https://img.shields.io/badge/-React%20Toastify-333?logo=react&logoColor=white&style=for-the-badge) | Notifications             |
 | ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge)   | Image hosting             |
@@ -33,7 +26,7 @@ Stayza is powered by the following technologies:
 
 ### 🔐 Authentication
 
-- User login/signup using Clerk
+- User login/signup using JWT
 - Role-based access for Hotel Owners & Customers
 
 ### 🏨 Hotel Management for Companies
